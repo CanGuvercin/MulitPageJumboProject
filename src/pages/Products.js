@@ -1,9 +1,12 @@
 function ProductsPage() {
   return (
-    <div>
-      <h1>Products Page</h1>
-      <p>Here you can find a list of our products.</p>
-    </div>
+  <>
+  <h1>The Products Page</h1>
+    <li>Product 1</li>
+    <li>Product 2</li>
+    <li>Product 3</li>
+    <li>Product 4</li>
+  </>
   );
 }
 
